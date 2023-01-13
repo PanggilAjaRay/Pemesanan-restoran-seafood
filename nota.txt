@@ -1,0 +1,3 @@
+Makanan: Rp.18000
+Minuman: Rp.5000
+Total: Rp.23000
