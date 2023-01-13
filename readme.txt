@@ -1,1 +1,0 @@
-Create a restaurant food and beverage ordering system using C++. sorry if there are many shortcomings :)
